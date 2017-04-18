@@ -1,0 +1,37 @@
+{
+    "name": "curry-syntax-highlighting",
+    "displayName": "Curry Syntax Highlighting",
+    "description": "For a more colorful Curry.",
+    "version": "0.0.3",
+    "publisher": "jpsikorra",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "curry",
+                "aliases": [
+                    "Curry",
+                    "curry"
+                ],
+                "extensions": [
+                    ".curry",
+                    ".fcy"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "curry",
+                "scopeName": "source.curry",
+                "path": "./syntaxes/curry.tmLanguage"
+            }
+        ]
+    }
+}
