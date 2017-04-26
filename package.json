@@ -5,6 +5,7 @@
     "version": "0.0.6",
     "publisher": "jpsikorra",
     "license": "MIT",
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/jpsikorra/vscode-curry-syntax-highlight"
