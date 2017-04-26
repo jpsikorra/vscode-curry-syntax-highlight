@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.8
+- Add logo
+
 ## 0.0.5
 - Add repository link to package.json
 

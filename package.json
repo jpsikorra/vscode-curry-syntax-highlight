@@ -2,7 +2,7 @@
     "name": "curry-syntax-highlighting",
     "displayName": "Curry Syntax Highlighting",
     "description": "For a more colorful Curry.",
-    "version": "0.0.6",
+    "version": "0.0.8",
     "publisher": "jpsikorra",
     "license": "MIT",
     "icon": "images/icon.png",
